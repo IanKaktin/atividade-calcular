@@ -2,7 +2,7 @@
 import React from 'react';
 
 export default function Descricao() {
-    return (
+    return ( 
         <div className="p-4 space-y-4 text-sm">
             <h1 className="text-xl font-bold">Para ser muito bom amanhã é preciso começar a praticar hoje</h1>
             <p>São nos primeiros anos escolares que as crianças aprendem os fundamentos da matemática, inclusive as quatro operações - soma, subtração, multiplicação e divisão. Qualquer dificuldade que a criança tenha nessa fase se refletirá por toda a sua vida escolar :(</p>

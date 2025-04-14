@@ -3,7 +3,7 @@ import React from 'react';
 import logo from '/Calcular.png';
 
 export default function Header() {
-    return (
+    return ( 
         <header className="flex justify-between items-center p-4 border-b text-sm">
             <div className="flex items-center gap-2">
                 <img src={logo} alt="Logo" className="w-8 h-8" />

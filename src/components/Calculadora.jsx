@@ -5,7 +5,7 @@ export default function Calculadora() {
   const [num2, setNum2] = useState(null);
   const [operador, setOperador] = useState(null);
   const [resposta, setResposta] = useState('');
-  const [pontos, setPontos] = useState(0);
+  const [pontos, setPontos] = useState(0); 
 
   const operadores = ['+', '-', '*'];
 

@@ -6,7 +6,7 @@ import Calculadora from './components/Calculadora';
 import Rodape from './components/Rodape';
 
 function App() {
-    return (
+    return ( 
         <div className="min-h-screen bg-white font-sans flex flex-col">
             <Header />
 

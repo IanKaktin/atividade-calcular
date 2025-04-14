@@ -5,5 +5,5 @@ export default function Banner() {
     <div className="p-4">
       <img src="/Menino.jpeg" alt="Menino estudando" className="rounded-xl w-full" />
     </div>
-  );
+  ); 
 }
